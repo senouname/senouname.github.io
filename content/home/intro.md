@@ -24,5 +24,4 @@ I am a graduate statistician and project management professional with focus on r
 
 More details regarding the different projects I have been and currently part of can be found in my portfolio below.
 ---
-# Check out my [resumé](/about/) and portfolio below 😍
----
+# Check out my [resumé](/about/) and portfolio below
