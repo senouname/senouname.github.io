@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Marcel Gbaguidi
+title: Marcel Gbaguidi Alia
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'Statistician - Research, Evaluation, Data & AI'
 
 # Status emoji
 status:
