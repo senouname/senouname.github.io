@@ -6,7 +6,7 @@ title: Marcel Gbaguidi Alia
 superuser: true
 
 # Role/position
-role: 'Statistician - Research, Evaluation, Data & AI'
+role: ''
 
 # Status emoji
 status:
@@ -44,17 +44,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'about/#contact' # For a direct email link, use "mailto:senouname@gmail.com".
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://linkedin.com/senouname
+  - icon: google-scholar
     icon_pack: fab
-    link: https://instagram.com/geocushen
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?hl=fr&user=S5zAcncAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/senouname
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-8465-3302
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,10 +65,8 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+#email: "senouname@gmail.com"
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
