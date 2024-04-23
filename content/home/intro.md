@@ -19,9 +19,8 @@ author: admin
 ---
 
 Welcome!
-I am a graduate statistician and project management professional with focus on research, evaluation, data and AI. My technical expertise include Operations Research, Impact Assessment, Data Science, Machine Learning, project/program Monitoring & Evaluation, Project Management, Policy Analysis, Econometrics.
-I am also willing to pursue a PhD in Environmental Economics and Policy at Wageningen University and Research.
+I am a graduate statistician and project management professional with focus on research, evaluation, data and AI.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 More details regarding the different projects I have been and currently part of can be found in my portfolio below.
-#Check out my [resumé](/about/) and portfolio below 😍
+# Check out my [resumé](/about/) and portfolio below 😍
