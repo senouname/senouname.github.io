@@ -18,8 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Welcome!
-I am Project Management Professional (PMP®) and Accredited Professional Statistician (PStat®) with focus on Research, Evaluation, Data and AI.
+I am Project Management Professional (PMP®) and Accredited Professional Statistician (PSTAT®) with focus on Research, Evaluation, Data and AI.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 I am happy to share my project portfolio below with you and hope you enjoy it!
