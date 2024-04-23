@@ -34,6 +34,14 @@ content:
       tag: CV
     - name: NLP
       tag: NLP
+    - name: Impact Evaluation
+      tag: IE
+    - name: Geospatial Analytics
+      tag: GIS
+    - name: Artificial Intelligence
+      tag: AI
+
+
 
 design:
   columns: '1'
