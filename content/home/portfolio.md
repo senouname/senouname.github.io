@@ -36,9 +36,9 @@ content:
       tag: NLP
     - name: Impact Evaluation
       tag: IE
-    - name: Geospatial Analytics
+    - name: GIS
       tag: GIS
-    - name: Artificial Intelligence
+    - name: AI
       tag: AI
 
 
