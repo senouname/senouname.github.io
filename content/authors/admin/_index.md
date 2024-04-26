@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Marcel Gbaguidi Alia
+title: Marcel Gbaguidi Alia, MSc.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'Independent Evaluation Professional & Development Cooperation Specialist'
 
 # Status emoji
 status:
@@ -27,15 +27,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: PhD in Environmental Economics and Policy
+#    institution: Wageningen University & Research (Netherlands)
+#    year: 20XX
+#  - course: MSc in Statistics
+#    institution: University of Abomey-Calavi (Benin)
+#    year: 2020
+#  - course: BSc in Natural Resource Management
+#    institution: University of Parakou (Benin)
+#    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
