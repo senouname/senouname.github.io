@@ -6,7 +6,7 @@ title: Marcel Gbaguidi Alia, MSc.
 superuser: true
 
 # Role/position
-role: 'Independent Evaluation Professional & Development Cooperation Specialist'
+role: 'PMP, PSTAT, PSM, Lean Six Sigma, ITIL'
 
 # Status emoji
 status:
