@@ -42,21 +42,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://linkedin.com/senouname
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-8465-3302
-  - icon: google-scholar
-    icon_pack: fab
-    link: https://scholar.google.com/citations?hl=fr&user=S5zAcncAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/senouname
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Marcel-Gbaguidi-Alia
+  - icon: google-scholar
+    icon_pack: fab
+    link: https://scholar.google.com/citations?hl=fr&user=S5zAcncAAAAJ
+  - icon: linkedin
+    icon_pack: fab
+    link: https://linkedin.com/senouname
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/senouname
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
