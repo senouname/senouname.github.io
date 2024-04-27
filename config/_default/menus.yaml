@@ -13,9 +13,9 @@ main:
   - name: RESOURCES
     url: /
     weight: 30
+  - name: PUBLICATIONS
+    url: about/
+    weight: 40
   - name: CONTACT
     url: /#contact
-    weight: 40
-  - name: CV
-    url: about/
     weight: 50
