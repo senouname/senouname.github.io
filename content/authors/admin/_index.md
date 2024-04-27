@@ -42,12 +42,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0002-8465-3302
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/senouname
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-8465-3302
   - icon: google-scholar
     icon_pack: fab
     link: https://scholar.google.com/citations?hl=fr&user=S5zAcncAAAAJ
