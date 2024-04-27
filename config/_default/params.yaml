@@ -32,7 +32,6 @@ marketing:
 # Site header
 
 header:
-  notice: 'Marcel Gbaguidi Alia'
   navbar:
     enable: true
     align: r
