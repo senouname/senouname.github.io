@@ -10,7 +10,7 @@ role: 'PMP®, CBAP®, MoP®, PSTAT®, ITIL®, Lean Six Sigma & Scrum Master'
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🟢
 
 # Organizations/Affiliations
 #organizations:
