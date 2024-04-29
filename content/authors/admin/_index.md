@@ -12,7 +12,6 @@ role: 'PMP®, CBAP®, MoP®, PSTAT®, ITIL®, Lean Six Sigma & Scrum Master'
 status:
   icon: 🚀
 
-
 # Organizations/Affiliations
 #organizations:
 #- name: 腾讯
