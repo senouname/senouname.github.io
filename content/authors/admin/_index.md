@@ -10,7 +10,9 @@ role: 'PMP®, CBAP®, MoP®, PSTAT®, ITIL®, Lean Six Sigma & Scrum Master'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ![E_GIF_17](https://github.com/senouname/senouname.github.io/assets/41597042/ff5e9fd3-16aa-4ff1-a8b8-6024098abbf0)
+![E_GIF_17](https://github.com/senouname/senouname.github.io/assets/41597042/c427a4b8-fdb5-484a-bca2-c4284cfedb8b)
+
 
 # Organizations/Affiliations
 #organizations:
