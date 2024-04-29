@@ -6,7 +6,7 @@ title: Marcel Gbaguidi Alia, MSc.
 superuser: true
 
 # Role/position
-role: 'PMP®, CBAP®, MoP®, PSTAT®, ITIL®, Gen AI, Lean Six Sigma & Scrum Master'
+role: 'PMP®, CBAP®, MoP®, PSTAT®, ITIL®, Lean Six Sigma & Scrum Master'
 
 # Status emoji
 status:
