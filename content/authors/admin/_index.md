@@ -53,7 +53,7 @@ social:
     link: https://scholar.google.com/citations?hl=fr&user=S5zAcncAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://linkedin.com/senouname
+    link: https://linkedin.com/in/senouname
   - icon: github
     icon_pack: fab
     link: https://github.com/senouname
