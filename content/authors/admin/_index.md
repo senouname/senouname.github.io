@@ -29,7 +29,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #  courses:
 #  - course: PhD in Environmental Economics and Policy
 #    institution: Wageningen University & Research (Netherlands)
-#    year: 20XX (Ongoing)
+#    year: 202X (Ongoing)
 #  - course: MSc in Statistics
 #    institution: University of Abomey-Calavi (Benin)
 #    year: 2020
