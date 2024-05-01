@@ -22,8 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 #interests:
 #- Generative Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Environmental Economics and Policy
+#- Independent Evaluation
 
 #education:
 #  courses:
